@@ -21,4 +21,13 @@ My Leetcode progress
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/AKSHITRAYAL/Leetcode/tree/master/0217-contains-duplicate) |
+| [1115-valid-boomerang](https://github.com/AKSHITRAYAL/Leetcode/tree/master/1115-valid-boomerang) |
+## Math
+|  |
+| ------- |
+| [1115-valid-boomerang](https://github.com/AKSHITRAYAL/Leetcode/tree/master/1115-valid-boomerang) |
+## Geometry
+|  |
+| ------- |
+| [1115-valid-boomerang](https://github.com/AKSHITRAYAL/Leetcode/tree/master/1115-valid-boomerang) |
 <!---LeetCode Topics End-->
