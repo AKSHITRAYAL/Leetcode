@@ -20,12 +20,14 @@ My Leetcode progress
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/AKSHITRAYAL/Leetcode/tree/master/0066-plus-one) |
 | [0217-contains-duplicate](https://github.com/AKSHITRAYAL/Leetcode/tree/master/0217-contains-duplicate) |
 | [1115-valid-boomerang](https://github.com/AKSHITRAYAL/Leetcode/tree/master/1115-valid-boomerang) |
 | [1929-concatenation-of-array](https://github.com/AKSHITRAYAL/Leetcode/tree/master/1929-concatenation-of-array) |
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/AKSHITRAYAL/Leetcode/tree/master/0066-plus-one) |
 | [1115-valid-boomerang](https://github.com/AKSHITRAYAL/Leetcode/tree/master/1115-valid-boomerang) |
 ## Geometry
 |  |
