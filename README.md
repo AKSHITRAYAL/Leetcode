@@ -22,6 +22,7 @@ My Leetcode progress
 | ------- |
 | [0217-contains-duplicate](https://github.com/AKSHITRAYAL/Leetcode/tree/master/0217-contains-duplicate) |
 | [1115-valid-boomerang](https://github.com/AKSHITRAYAL/Leetcode/tree/master/1115-valid-boomerang) |
+| [1929-concatenation-of-array](https://github.com/AKSHITRAYAL/Leetcode/tree/master/1929-concatenation-of-array) |
 ## Math
 |  |
 | ------- |
@@ -30,4 +31,8 @@ My Leetcode progress
 |  |
 | ------- |
 | [1115-valid-boomerang](https://github.com/AKSHITRAYAL/Leetcode/tree/master/1115-valid-boomerang) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/AKSHITRAYAL/Leetcode/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
