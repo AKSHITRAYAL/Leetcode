@@ -3,11 +3,11 @@ class Solution {
     public int finalValueAfterOperations(String[] operations) {
         int x = 0;
         for(int i=0;i<operations.length;i++){
-            String operation = operations[i];
-            if(operation.contains("+")){
+            if(operations[i].charAt(1)=='+'){
+            // if(operations[i].contains("+")){
                 x++;
             }
-            else if(operation.contains("-")){
+            else if(operations[i].charAt(1)=='-'){
                 x--;
             }
         } return x;
