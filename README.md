@@ -31,6 +31,7 @@ My Leetcode progress
 | ------- |
 | [0066-plus-one](https://github.com/AKSHITRAYAL/Leetcode/tree/master/0066-plus-one) |
 | [1115-valid-boomerang](https://github.com/AKSHITRAYAL/Leetcode/tree/master/1115-valid-boomerang) |
+| [2235-add-two-integers](https://github.com/AKSHITRAYAL/Leetcode/tree/master/2235-add-two-integers) |
 ## Geometry
 |  |
 | ------- |
