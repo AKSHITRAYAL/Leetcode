@@ -30,6 +30,7 @@ My Leetcode progress
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/AKSHITRAYAL/Leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/AKSHITRAYAL/Leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/AKSHITRAYAL/Leetcode/tree/master/0066-plus-one) |
 | [1115-valid-boomerang](https://github.com/AKSHITRAYAL/Leetcode/tree/master/1115-valid-boomerang) |
@@ -43,4 +44,12 @@ My Leetcode progress
 | ------- |
 | [1929-concatenation-of-array](https://github.com/AKSHITRAYAL/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/AKSHITRAYAL/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/AKSHITRAYAL/Leetcode/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/AKSHITRAYAL/Leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
