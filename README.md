@@ -7,12 +7,14 @@ My Leetcode progress
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AKSHITRAYAL/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/AKSHITRAYAL/Leetcode/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/AKSHITRAYAL/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AKSHITRAYAL/Leetcode/tree/master/0242-valid-anagram) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AKSHITRAYAL/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/AKSHITRAYAL/Leetcode/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/AKSHITRAYAL/Leetcode/tree/master/0242-valid-anagram) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/AKSHITRAYAL/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/AKSHITRAYAL/Leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
@@ -34,6 +36,7 @@ My Leetcode progress
 | ------- |
 | [0002-add-two-numbers](https://github.com/AKSHITRAYAL/Leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/AKSHITRAYAL/Leetcode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/AKSHITRAYAL/Leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/AKSHITRAYAL/Leetcode/tree/master/0066-plus-one) |
 | [1115-valid-boomerang](https://github.com/AKSHITRAYAL/Leetcode/tree/master/1115-valid-boomerang) |
 | [2235-add-two-integers](https://github.com/AKSHITRAYAL/Leetcode/tree/master/2235-add-two-integers) |
