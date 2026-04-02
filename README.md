@@ -31,6 +31,7 @@ My Leetcode progress
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/AKSHITRAYAL/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/AKSHITRAYAL/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/AKSHITRAYAL/Leetcode/tree/master/0066-plus-one) |
 | [0217-contains-duplicate](https://github.com/AKSHITRAYAL/Leetcode/tree/master/0217-contains-duplicate) |
 | [1115-valid-boomerang](https://github.com/AKSHITRAYAL/Leetcode/tree/master/1115-valid-boomerang) |
@@ -72,6 +73,7 @@ My Leetcode progress
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AKSHITRAYAL/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/AKSHITRAYAL/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Dynamic Programming
 |  |
 | ------- |
