@@ -4,6 +4,7 @@ class Solution {
         boolean[] dp = new boolean[n + 1];
         dp[0] = true;
 
+        // Initialize for patterns like a*, a*b*, etc.
         for (int j = 2; j <= n; j++) {
             if (p.charAt(j - 1) == '*') {
                 dp[j] = dp[j - 2];
@@ -17,22 +18,18 @@ class Solution {
             for (int j = 1; j <= n; j++) {
                 boolean temp = dp[j];
 
-                if (p.charAt(j - 1) == '.' || 
-                    p.charAt(j - 1) == s.charAt(i - 1)) {
+                char pc = p.charAt(j - 1);
 
-                    dp[j] = prev;
-
-                } else if (p.charAt(j - 1) == '*') {
-
+                if (pc == '*') {
                     dp[j] = dp[j - 2];
 
-                    if (p.charAt(j - 2) == '.' || 
-                        p.charAt(j - 2) == s.charAt(i - 1)) {
-
+                    char prevChar = p.charAt(j - 2);
+                    if (prevChar == '.' || prevChar == s.charAt(i - 1)) {
                         dp[j] |= temp;
                     }
+
                 } else {
-                    dp[j] = false;
+                    dp[j] = prev && (pc == '.' || pc == s.charAt(i - 1));
                 }
 
                 prev = temp;
