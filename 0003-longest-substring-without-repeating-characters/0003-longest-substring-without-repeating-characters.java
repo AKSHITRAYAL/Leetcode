@@ -6,7 +6,7 @@ class Solution {
         
         int left = 0, maxLength = 0;
 
-        for (int right = 0; right < s.length(); right++) {
+        for(int right = 0; right < s.length(); right++) {
             char c = s.charAt(right);
 
             if (map.containsKey(c)) {
