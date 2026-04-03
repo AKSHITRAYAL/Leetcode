@@ -45,6 +45,7 @@ My Leetcode progress
 | [0009-palindrome-number](https://github.com/AKSHITRAYAL/Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/AKSHITRAYAL/Leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/AKSHITRAYAL/Leetcode/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/AKSHITRAYAL/Leetcode/tree/master/0070-climbing-stairs) |
 | [1115-valid-boomerang](https://github.com/AKSHITRAYAL/Leetcode/tree/master/1115-valid-boomerang) |
 | [2235-add-two-integers](https://github.com/AKSHITRAYAL/Leetcode/tree/master/2235-add-two-integers) |
 ## Geometry
@@ -81,6 +82,7 @@ My Leetcode progress
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AKSHITRAYAL/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/AKSHITRAYAL/Leetcode/tree/master/0022-generate-parentheses) |
+| [0070-climbing-stairs](https://github.com/AKSHITRAYAL/Leetcode/tree/master/0070-climbing-stairs) |
 ## Trie
 |  |
 | ------- |
@@ -93,4 +95,8 @@ My Leetcode progress
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/AKSHITRAYAL/Leetcode/tree/master/0022-generate-parentheses) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/AKSHITRAYAL/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
