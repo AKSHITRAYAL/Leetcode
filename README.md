@@ -22,6 +22,7 @@ My Leetcode progress
 | [0020-valid-parentheses](https://github.com/AKSHITRAYAL/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/AKSHITRAYAL/Leetcode/tree/master/0022-generate-parentheses) |
 | [0242-valid-anagram](https://github.com/AKSHITRAYAL/Leetcode/tree/master/0242-valid-anagram) |
+| [1768-merge-strings-alternately](https://github.com/AKSHITRAYAL/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/AKSHITRAYAL/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/AKSHITRAYAL/Leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 ## Sorting
@@ -81,6 +82,7 @@ My Leetcode progress
 | [0005-longest-palindromic-substring](https://github.com/AKSHITRAYAL/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AKSHITRAYAL/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/AKSHITRAYAL/Leetcode/tree/master/0027-remove-element) |
+| [1768-merge-strings-alternately](https://github.com/AKSHITRAYAL/Leetcode/tree/master/1768-merge-strings-alternately) |
 ## Dynamic Programming
 |  |
 | ------- |
