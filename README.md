@@ -41,6 +41,7 @@ My Leetcode progress
 | [0027-remove-element](https://github.com/AKSHITRAYAL/Leetcode/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/AKSHITRAYAL/Leetcode/tree/master/0066-plus-one) |
 | [0217-contains-duplicate](https://github.com/AKSHITRAYAL/Leetcode/tree/master/0217-contains-duplicate) |
+| [0605-can-place-flowers](https://github.com/AKSHITRAYAL/Leetcode/tree/master/0605-can-place-flowers) |
 | [1115-valid-boomerang](https://github.com/AKSHITRAYAL/Leetcode/tree/master/1115-valid-boomerang) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/AKSHITRAYAL/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1929-concatenation-of-array](https://github.com/AKSHITRAYAL/Leetcode/tree/master/1929-concatenation-of-array) |
@@ -111,4 +112,8 @@ My Leetcode progress
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/AKSHITRAYAL/Leetcode/tree/master/0070-climbing-stairs) |
+## Greedy
+|  |
+| ------- |
+| [0605-can-place-flowers](https://github.com/AKSHITRAYAL/Leetcode/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
