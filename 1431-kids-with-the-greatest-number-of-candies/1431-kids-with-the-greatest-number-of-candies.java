@@ -12,13 +12,17 @@ class Solution {
 
         List<Boolean> result = new ArrayList<>();
 
-        for (int i = 0; i < candies.length; i++){
-        //     if(extraCandies + candies[i] >= greatest){
-        //         result.add(true);
-        //     } else{
-        //         result.add(false);
-        //     }
-            result.add(candies[i] + extraCandies >= greatest);
+        // for (int i = 0; i < candies.length; i++){
+        // //     if(extraCandies + candies[i] >= greatest){
+        // //         result.add(true);
+        // //     } else{
+        // //         result.add(false);
+        // //     }
+        //     result.add(candies[i] + extraCandies >= greatest);
+        // }
+
+        for(int candy : candies){
+            result.add(candy + extraCandies >= greatest);
         }
             
         return result;
