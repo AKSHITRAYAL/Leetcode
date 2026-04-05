@@ -9,16 +9,18 @@ class Solution {
                 greatest = candy;
             }
         }
-        
+
         List<Boolean> result = new ArrayList<>();
 
         for (int i = 0; i < candies.length; i++){
-            if(extraCandies + candies[i] >= greatest){
-                result.add(true);
-            } else{
-                result.add(false);
-            }
+        //     if(extraCandies + candies[i] >= greatest){
+        //         result.add(true);
+        //     } else{
+        //         result.add(false);
+        //     }
+            result.add(candies[i] + extraCandies >= greatest);
         }
+            
         return result;
     }
 }
