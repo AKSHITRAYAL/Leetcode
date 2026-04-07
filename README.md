@@ -72,6 +72,7 @@ My Leetcode progress
 | [0874-walking-robot-simulation](https://github.com/AKSHITRAYAL/Leetcode/tree/master/0874-walking-robot-simulation) |
 | [1929-concatenation-of-array](https://github.com/AKSHITRAYAL/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/AKSHITRAYAL/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2069-walking-robot-simulation-ii](https://github.com/AKSHITRAYAL/Leetcode/tree/master/2069-walking-robot-simulation-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -123,4 +124,8 @@ My Leetcode progress
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/AKSHITRAYAL/Leetcode/tree/master/0605-can-place-flowers) |
+## Design
+|  |
+| ------- |
+| [2069-walking-robot-simulation-ii](https://github.com/AKSHITRAYAL/Leetcode/tree/master/2069-walking-robot-simulation-ii) |
 <!---LeetCode Topics End-->
