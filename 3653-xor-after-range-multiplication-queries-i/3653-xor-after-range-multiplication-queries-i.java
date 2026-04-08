@@ -2,7 +2,6 @@ class Solution {
     public int xorAfterQueries(int[] nums, int[][] queries) {
 
         int MOD = 1_000_000_007;
-        int n = nums.length;
 
         for (int[] q : queries) {
             int l = q[0], r = q[1], k = q[2], v = q[3];
