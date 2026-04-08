@@ -52,6 +52,7 @@ My Leetcode progress
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/AKSHITRAYAL/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1929-concatenation-of-array](https://github.com/AKSHITRAYAL/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/AKSHITRAYAL/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/AKSHITRAYAL/Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Math
 |  |
 | ------- |
@@ -75,6 +76,7 @@ My Leetcode progress
 | [1929-concatenation-of-array](https://github.com/AKSHITRAYAL/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/AKSHITRAYAL/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2069-walking-robot-simulation-ii](https://github.com/AKSHITRAYAL/Leetcode/tree/master/2069-walking-robot-simulation-ii) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/AKSHITRAYAL/Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Linked List
 |  |
 | ------- |
@@ -135,4 +137,8 @@ My Leetcode progress
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/AKSHITRAYAL/Leetcode/tree/master/0238-product-of-array-except-self) |
+## Divide and Conquer
+|  |
+| ------- |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/AKSHITRAYAL/Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 <!---LeetCode Topics End-->
