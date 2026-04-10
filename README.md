@@ -12,6 +12,7 @@ My Leetcode progress
 | [0217-contains-duplicate](https://github.com/AKSHITRAYAL/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AKSHITRAYAL/Leetcode/tree/master/0242-valid-anagram) |
 | [0874-walking-robot-simulation](https://github.com/AKSHITRAYAL/Leetcode/tree/master/0874-walking-robot-simulation) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/AKSHITRAYAL/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/AKSHITRAYAL/Leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## String
 |  |
@@ -38,6 +39,7 @@ My Leetcode progress
 | ------- |
 | [0217-contains-duplicate](https://github.com/AKSHITRAYAL/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AKSHITRAYAL/Leetcode/tree/master/0242-valid-anagram) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/AKSHITRAYAL/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Array
 |  |
 | ------- |
@@ -55,6 +57,7 @@ My Leetcode progress
 | [0874-walking-robot-simulation](https://github.com/AKSHITRAYAL/Leetcode/tree/master/0874-walking-robot-simulation) |
 | [1115-valid-boomerang](https://github.com/AKSHITRAYAL/Leetcode/tree/master/1115-valid-boomerang) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/AKSHITRAYAL/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/AKSHITRAYAL/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1929-concatenation-of-array](https://github.com/AKSHITRAYAL/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/AKSHITRAYAL/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/AKSHITRAYAL/Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
@@ -111,6 +114,7 @@ My Leetcode progress
 | [0345-reverse-vowels-of-a-string](https://github.com/AKSHITRAYAL/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/AKSHITRAYAL/Leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/AKSHITRAYAL/Leetcode/tree/master/0443-string-compression) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/AKSHITRAYAL/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/AKSHITRAYAL/Leetcode/tree/master/1768-merge-strings-alternately) |
 ## Dynamic Programming
 |  |
