@@ -1,28 +1,25 @@
 class Solution {
     public int minimumDistance(int[] nums) {
-        int i = 0;
-        int j = 0;
-        int k = 0;
-        int abs = -1;
-        int min = Integer.MAX_VALUE;
-        for(i=0; i<nums.length; i++){
-            for(j=i+1; j<nums.length; j++){
-                for(k=j+1;k<nums.length;k++){
-                    if(nums[j]==nums[i]){
-                        if(nums[k]==nums[j]){
-                            abs = 2*(k-i);
-                            min = Math.min(min,abs);
-                        }
-                    }
-                
+        int n = nums.length;
+        Map<Integer, List<Integer>> map = new HashMap<>();
+        for(int i=0; i<n; i++){
+            map.computeIfAbsent(nums[i], k -> new ArrayList<>()).add(i);
+        }
+        int ans = Integer.MAX_VALUE;
+
+        for(List<Integer> list: map.values()){
+            if(list.size()>=3){
+                for(int i=0; i+2<list.size(); i++){
+                    int a = list.get(i);
+                    int b = list.get(i+1);
+                    int c = list.get(i+2);
+
+                    int distance = 2*(c-a);
+
+                    ans = Math.min(ans,distance);
                 }
-                
             }
-            
         }
-        if(abs != -1){
-            return min;
-        }
-        return -1;
+        return ans == Integer.MAX_VALUE ? -1 : ans;
     }
 }
