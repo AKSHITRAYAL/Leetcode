@@ -54,6 +54,7 @@ My Leetcode progress
 | [0283-move-zeroes](https://github.com/AKSHITRAYAL/Leetcode/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/AKSHITRAYAL/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/AKSHITRAYAL/Leetcode/tree/master/0605-can-place-flowers) |
+| [0643-maximum-average-subarray-i](https://github.com/AKSHITRAYAL/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0874-walking-robot-simulation](https://github.com/AKSHITRAYAL/Leetcode/tree/master/0874-walking-robot-simulation) |
 | [1115-valid-boomerang](https://github.com/AKSHITRAYAL/Leetcode/tree/master/1115-valid-boomerang) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/AKSHITRAYAL/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -102,6 +103,7 @@ My Leetcode progress
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AKSHITRAYAL/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0643-maximum-average-subarray-i](https://github.com/AKSHITRAYAL/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 ## Two Pointers
 |  |
 | ------- |
