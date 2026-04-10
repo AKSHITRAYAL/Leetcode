@@ -12,6 +12,7 @@ My Leetcode progress
 | [0217-contains-duplicate](https://github.com/AKSHITRAYAL/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AKSHITRAYAL/Leetcode/tree/master/0242-valid-anagram) |
 | [0874-walking-robot-simulation](https://github.com/AKSHITRAYAL/Leetcode/tree/master/0874-walking-robot-simulation) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/AKSHITRAYAL/Leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## String
 |  |
 | ------- |
@@ -58,6 +59,7 @@ My Leetcode progress
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/AKSHITRAYAL/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/AKSHITRAYAL/Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/AKSHITRAYAL/Leetcode/tree/master/3655-xor-after-range-multiplication-queries-ii) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/AKSHITRAYAL/Leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Math
 |  |
 | ------- |
