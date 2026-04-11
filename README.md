@@ -58,6 +58,7 @@ My Leetcode progress
 | [0605-can-place-flowers](https://github.com/AKSHITRAYAL/Leetcode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/AKSHITRAYAL/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0874-walking-robot-simulation](https://github.com/AKSHITRAYAL/Leetcode/tree/master/0874-walking-robot-simulation) |
+| [1004-max-consecutive-ones-iii](https://github.com/AKSHITRAYAL/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1115-valid-boomerang](https://github.com/AKSHITRAYAL/Leetcode/tree/master/1115-valid-boomerang) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/AKSHITRAYAL/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/AKSHITRAYAL/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -107,6 +108,7 @@ My Leetcode progress
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AKSHITRAYAL/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/AKSHITRAYAL/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [1004-max-consecutive-ones-iii](https://github.com/AKSHITRAYAL/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AKSHITRAYAL/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Two Pointers
 |  |
@@ -160,9 +162,14 @@ My Leetcode progress
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/AKSHITRAYAL/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [1004-max-consecutive-ones-iii](https://github.com/AKSHITRAYAL/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/AKSHITRAYAL/Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/AKSHITRAYAL/Leetcode/tree/master/3655-xor-after-range-multiplication-queries-ii) |
+## Binary Search
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/AKSHITRAYAL/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
