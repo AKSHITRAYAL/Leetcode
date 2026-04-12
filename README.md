@@ -32,6 +32,7 @@ My Leetcode progress
 | [0443-string-compression](https://github.com/AKSHITRAYAL/Leetcode/tree/master/0443-string-compression) |
 | [0657-robot-return-to-origin](https://github.com/AKSHITRAYAL/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/AKSHITRAYAL/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/AKSHITRAYAL/Leetcode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AKSHITRAYAL/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1768-merge-strings-alternately](https://github.com/AKSHITRAYAL/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/AKSHITRAYAL/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -132,6 +133,7 @@ My Leetcode progress
 | [0022-generate-parentheses](https://github.com/AKSHITRAYAL/Leetcode/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/AKSHITRAYAL/Leetcode/tree/master/0070-climbing-stairs) |
 | [0392-is-subsequence](https://github.com/AKSHITRAYAL/Leetcode/tree/master/0392-is-subsequence) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/AKSHITRAYAL/Leetcode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 ## Trie
 |  |
 | ------- |
