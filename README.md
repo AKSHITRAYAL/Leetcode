@@ -65,6 +65,7 @@ My Leetcode progress
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AKSHITRAYAL/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/AKSHITRAYAL/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/AKSHITRAYAL/Leetcode/tree/master/1732-find-the-highest-altitude) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/AKSHITRAYAL/Leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1929-concatenation-of-array](https://github.com/AKSHITRAYAL/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/AKSHITRAYAL/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/AKSHITRAYAL/Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
