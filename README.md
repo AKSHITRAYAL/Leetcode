@@ -44,6 +44,7 @@ My Leetcode progress
 | [0217-contains-duplicate](https://github.com/AKSHITRAYAL/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AKSHITRAYAL/Leetcode/tree/master/0242-valid-anagram) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/AKSHITRAYAL/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2463-minimum-total-distance-traveled](https://github.com/AKSHITRAYAL/Leetcode/tree/master/2463-minimum-total-distance-traveled) |
 ## Array
 |  |
 | ------- |
@@ -71,6 +72,7 @@ My Leetcode progress
 | [1929-concatenation-of-array](https://github.com/AKSHITRAYAL/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/AKSHITRAYAL/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/AKSHITRAYAL/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2463-minimum-total-distance-traveled](https://github.com/AKSHITRAYAL/Leetcode/tree/master/2463-minimum-total-distance-traveled) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/AKSHITRAYAL/Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/AKSHITRAYAL/Leetcode/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/AKSHITRAYAL/Leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -142,6 +144,7 @@ My Leetcode progress
 | [0392-is-subsequence](https://github.com/AKSHITRAYAL/Leetcode/tree/master/0392-is-subsequence) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/AKSHITRAYAL/Leetcode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AKSHITRAYAL/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [2463-minimum-total-distance-traveled](https://github.com/AKSHITRAYAL/Leetcode/tree/master/2463-minimum-total-distance-traveled) |
 ## Trie
 |  |
 | ------- |
