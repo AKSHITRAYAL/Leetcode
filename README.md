@@ -40,6 +40,7 @@ My Leetcode progress
 | [1657-determine-if-two-strings-are-close](https://github.com/AKSHITRAYAL/Leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1768-merge-strings-alternately](https://github.com/AKSHITRAYAL/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/AKSHITRAYAL/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2390-removing-stars-from-a-string](https://github.com/AKSHITRAYAL/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/AKSHITRAYAL/Leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/AKSHITRAYAL/Leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 ## Sorting
@@ -107,6 +108,7 @@ My Leetcode progress
 | [1929-concatenation-of-array](https://github.com/AKSHITRAYAL/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/AKSHITRAYAL/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2069-walking-robot-simulation-ii](https://github.com/AKSHITRAYAL/Leetcode/tree/master/2069-walking-robot-simulation-ii) |
+| [2390-removing-stars-from-a-string](https://github.com/AKSHITRAYAL/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/AKSHITRAYAL/Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Linked List
 |  |
@@ -160,6 +162,7 @@ My Leetcode progress
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AKSHITRAYAL/Leetcode/tree/master/0020-valid-parentheses) |
+| [2390-removing-stars-from-a-string](https://github.com/AKSHITRAYAL/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Backtracking
 |  |
 | ------- |
