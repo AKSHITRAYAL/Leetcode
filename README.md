@@ -16,6 +16,7 @@ My Leetcode progress
 | [1657-determine-if-two-strings-are-close](https://github.com/AKSHITRAYAL/Leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/AKSHITRAYAL/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/AKSHITRAYAL/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2352-equal-row-and-column-pairs](https://github.com/AKSHITRAYAL/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/AKSHITRAYAL/Leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/AKSHITRAYAL/Leetcode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## String
@@ -79,6 +80,7 @@ My Leetcode progress
 | [1929-concatenation-of-array](https://github.com/AKSHITRAYAL/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/AKSHITRAYAL/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/AKSHITRAYAL/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2352-equal-row-and-column-pairs](https://github.com/AKSHITRAYAL/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [2463-minimum-total-distance-traveled](https://github.com/AKSHITRAYAL/Leetcode/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/AKSHITRAYAL/Leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/AKSHITRAYAL/Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
@@ -108,6 +110,7 @@ My Leetcode progress
 | [1929-concatenation-of-array](https://github.com/AKSHITRAYAL/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/AKSHITRAYAL/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2069-walking-robot-simulation-ii](https://github.com/AKSHITRAYAL/Leetcode/tree/master/2069-walking-robot-simulation-ii) |
+| [2352-equal-row-and-column-pairs](https://github.com/AKSHITRAYAL/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [2390-removing-stars-from-a-string](https://github.com/AKSHITRAYAL/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/AKSHITRAYAL/Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Linked List
@@ -201,4 +204,8 @@ My Leetcode progress
 |  |
 | ------- |
 | [1657-determine-if-two-strings-are-close](https://github.com/AKSHITRAYAL/Leetcode/tree/master/1657-determine-if-two-strings-are-close) |
+## Matrix
+|  |
+| ------- |
+| [2352-equal-row-and-column-pairs](https://github.com/AKSHITRAYAL/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
 <!---LeetCode Topics End-->
