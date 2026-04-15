@@ -40,6 +40,7 @@ My Leetcode progress
 | [1657-determine-if-two-strings-are-close](https://github.com/AKSHITRAYAL/Leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1768-merge-strings-alternately](https://github.com/AKSHITRAYAL/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/AKSHITRAYAL/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/AKSHITRAYAL/Leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/AKSHITRAYAL/Leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 ## Sorting
 |  |
@@ -78,6 +79,7 @@ My Leetcode progress
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/AKSHITRAYAL/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/AKSHITRAYAL/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2463-minimum-total-distance-traveled](https://github.com/AKSHITRAYAL/Leetcode/tree/master/2463-minimum-total-distance-traveled) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/AKSHITRAYAL/Leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/AKSHITRAYAL/Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/AKSHITRAYAL/Leetcode/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/AKSHITRAYAL/Leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
