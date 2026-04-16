@@ -34,6 +34,7 @@ My Leetcode progress
 | [0242-valid-anagram](https://github.com/AKSHITRAYAL/Leetcode/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AKSHITRAYAL/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/AKSHITRAYAL/Leetcode/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/AKSHITRAYAL/Leetcode/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/AKSHITRAYAL/Leetcode/tree/master/0443-string-compression) |
 | [0657-robot-return-to-origin](https://github.com/AKSHITRAYAL/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/AKSHITRAYAL/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -128,6 +129,7 @@ My Leetcode progress
 | [0002-add-two-numbers](https://github.com/AKSHITRAYAL/Leetcode/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/AKSHITRAYAL/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/AKSHITRAYAL/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0394-decode-string](https://github.com/AKSHITRAYAL/Leetcode/tree/master/0394-decode-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -169,6 +171,7 @@ My Leetcode progress
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AKSHITRAYAL/Leetcode/tree/master/0020-valid-parentheses) |
+| [0394-decode-string](https://github.com/AKSHITRAYAL/Leetcode/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/AKSHITRAYAL/Leetcode/tree/master/0735-asteroid-collision) |
 | [2390-removing-stars-from-a-string](https://github.com/AKSHITRAYAL/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Backtracking
