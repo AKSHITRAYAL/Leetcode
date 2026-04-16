@@ -17,6 +17,7 @@ My Leetcode progress
 | [1679-max-number-of-k-sum-pairs](https://github.com/AKSHITRAYAL/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/AKSHITRAYAL/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2352-equal-row-and-column-pairs](https://github.com/AKSHITRAYAL/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
+| [3488-closest-equal-element-queries](https://github.com/AKSHITRAYAL/Leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/AKSHITRAYAL/Leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/AKSHITRAYAL/Leetcode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## String
@@ -83,6 +84,7 @@ My Leetcode progress
 | [2352-equal-row-and-column-pairs](https://github.com/AKSHITRAYAL/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [2463-minimum-total-distance-traveled](https://github.com/AKSHITRAYAL/Leetcode/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/AKSHITRAYAL/Leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [3488-closest-equal-element-queries](https://github.com/AKSHITRAYAL/Leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/AKSHITRAYAL/Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/AKSHITRAYAL/Leetcode/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/AKSHITRAYAL/Leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -200,6 +202,7 @@ My Leetcode progress
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/AKSHITRAYAL/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [3488-closest-equal-element-queries](https://github.com/AKSHITRAYAL/Leetcode/tree/master/3488-closest-equal-element-queries) |
 ## Counting
 |  |
 | ------- |
