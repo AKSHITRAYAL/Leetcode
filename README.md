@@ -20,6 +20,7 @@ My Leetcode progress
 | [3488-closest-equal-element-queries](https://github.com/AKSHITRAYAL/Leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/AKSHITRAYAL/Leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/AKSHITRAYAL/Leetcode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/AKSHITRAYAL/Leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## String
 |  |
 | ------- |
@@ -91,6 +92,7 @@ My Leetcode progress
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/AKSHITRAYAL/Leetcode/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/AKSHITRAYAL/Leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/AKSHITRAYAL/Leetcode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/AKSHITRAYAL/Leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Math
 |  |
 | ------- |
@@ -102,6 +104,7 @@ My Leetcode progress
 | [1071-greatest-common-divisor-of-strings](https://github.com/AKSHITRAYAL/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1115-valid-boomerang](https://github.com/AKSHITRAYAL/Leetcode/tree/master/1115-valid-boomerang) |
 | [2235-add-two-integers](https://github.com/AKSHITRAYAL/Leetcode/tree/master/2235-add-two-integers) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/AKSHITRAYAL/Leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Geometry
 |  |
 | ------- |
