@@ -191,6 +191,7 @@ My Leetcode progress
 ## Design
 |  |
 | ------- |
+| [0933-number-of-recent-calls](https://github.com/AKSHITRAYAL/Leetcode/tree/master/0933-number-of-recent-calls) |
 | [2069-walking-robot-simulation-ii](https://github.com/AKSHITRAYAL/Leetcode/tree/master/2069-walking-robot-simulation-ii) |
 ## Prefix Sum
 |  |
@@ -217,4 +218,12 @@ My Leetcode progress
 |  |
 | ------- |
 | [2352-equal-row-and-column-pairs](https://github.com/AKSHITRAYAL/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
+## Queue
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/AKSHITRAYAL/Leetcode/tree/master/0933-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/AKSHITRAYAL/Leetcode/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
