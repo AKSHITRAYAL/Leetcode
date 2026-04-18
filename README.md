@@ -106,6 +106,7 @@ My Leetcode progress
 | [1115-valid-boomerang](https://github.com/AKSHITRAYAL/Leetcode/tree/master/1115-valid-boomerang) |
 | [2235-add-two-integers](https://github.com/AKSHITRAYAL/Leetcode/tree/master/2235-add-two-integers) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/AKSHITRAYAL/Leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3783-mirror-distance-of-an-integer](https://github.com/AKSHITRAYAL/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 ## Geometry
 |  |
 | ------- |
