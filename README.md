@@ -84,6 +84,7 @@ My Leetcode progress
 | [1848-minimum-distance-to-the-target-element](https://github.com/AKSHITRAYAL/Leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1929-concatenation-of-array](https://github.com/AKSHITRAYAL/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/AKSHITRAYAL/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/AKSHITRAYAL/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/AKSHITRAYAL/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2352-equal-row-and-column-pairs](https://github.com/AKSHITRAYAL/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [2463-minimum-total-distance-traveled](https://github.com/AKSHITRAYAL/Leetcode/tree/master/2463-minimum-total-distance-traveled) |
@@ -197,6 +198,7 @@ My Leetcode progress
 | [0334-increasing-triplet-subsequence](https://github.com/AKSHITRAYAL/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/AKSHITRAYAL/Leetcode/tree/master/0605-can-place-flowers) |
 | [0649-dota2-senate](https://github.com/AKSHITRAYAL/Leetcode/tree/master/0649-dota2-senate) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/AKSHITRAYAL/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 ## Design
 |  |
 | ------- |
