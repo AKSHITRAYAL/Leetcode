@@ -242,10 +242,12 @@ My Leetcode progress
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AKSHITRAYAL/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0872-leaf-similar-trees](https://github.com/AKSHITRAYAL/Leetcode/tree/master/0872-leaf-similar-trees) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AKSHITRAYAL/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0872-leaf-similar-trees](https://github.com/AKSHITRAYAL/Leetcode/tree/master/0872-leaf-similar-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -254,4 +256,5 @@ My Leetcode progress
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AKSHITRAYAL/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0872-leaf-similar-trees](https://github.com/AKSHITRAYAL/Leetcode/tree/master/0872-leaf-similar-trees) |
 <!---LeetCode Topics End-->
