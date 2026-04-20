@@ -9,7 +9,7 @@ class Solution {
                     dist = j-i;
                 }
                 max = Math.max(max,dist);
-            }
+            } 
         }
         return max;
     }
